@@ -120,7 +120,7 @@ Saved files include:
 ```
 training_results.csv
 loss_acc_curve.eps
-mobilenetv2_100_final.pth
+mobilenetv2_final.pth
 ```
 
 
@@ -142,7 +142,7 @@ This allows the model to be reused later for **inference or deployment**.
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/yourusername/apple-disease-classification.git
+git clone https://github.com/Abdulrauf1122/apple_diseases_classification_using_mobilenetV2.git
 cd apple-disease-classification
 ```
 
