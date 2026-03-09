@@ -130,7 +130,7 @@ mobilenetv2_final.pth
 After training completion, the trained model weights were saved as:
 
 ```
-mobilenetv2_100_final.pth
+mobilenetv2_final.pth
 ```
 
 This allows the model to be reused later for **inference or deployment**.
